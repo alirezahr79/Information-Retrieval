@@ -21,9 +21,9 @@ The **Advanced Recommender System** is a comprehensive platform designed to stre
 ---
 
 ## ✨ Key Features:
-- 🏗️ End-to-end pipeline for academic document retrieval and recommendation.
-- 🤝 Integration of machine learning and deep learning models, clustering techniques, and advanced search algorithms.
-- 🎯 Personalized search and recommendation for tailored user experiences.
+- End-to-end pipeline for academic document retrieval and recommendation.
+- Integration of machine learning and deep learning models, clustering techniques, and advanced search algorithms.
+- Personalized search and recommendation for tailored user experiences.
 
 ---
 
@@ -49,7 +49,7 @@ The project pipeline is divided into three core phases:
 
 In this phase, we establish a strong foundation for data processing and retrieval. 
 
-📊**Datasets**:
+**Datasets**:
 - Source: [Semantic Scholar](https://www.semanticscholar.org/)
 - Focus: Artificial Intelligence & Bioinformatics
 
@@ -70,7 +70,7 @@ In this phase, we establish a strong foundation for data processing and retrieva
 
 This phase enhances search capabilities with classification and clustering techniques.
 
-**Datasets** 🔗:
+**Datasets**:
 - Source: [Kaggle ArXiv Abstracts](https://www.kaggle.com/datasets/spsayakpaul/arxiv-paper-abstracts?resource=download)
 
 **Key Components**:
