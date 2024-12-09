@@ -108,7 +108,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ---
 
-## ❤️ Contributing
+## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
 1. **Star the repository** ⭐ to show your support.
