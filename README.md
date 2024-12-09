@@ -15,7 +15,7 @@ Welcome to the **Advanced Recommender Systems**!
 
 | **Source Code** | **Website** |
 |:-----------------|:------------|
-| <a href="https://github.com/deepmancer/medseg-diffusion" target="_blank">github.com/deepmancer/medseg-diffusion</a> | <a href="https://deepmancer.github.io/medseg-diffusion/" target="_blank">deepmancer.github.io/medseg-diffusion</a> |
+| <a href="https://github.com/deepmancer/advanced-recommender-system" target="_blank">github.com/deepmancer/advanced-recommender-system</a> | <a href="https://deepmancer.github.io/advanced-recommender-system/" target="_blank">deepmancer.github.io/advanced-recommender-system</a> |
 
 ---
 
