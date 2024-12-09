@@ -13,6 +13,12 @@ Welcome to the **Advanced Recommender Systems**!
 
 ---
 
+| **Source Code** | **Website** |
+|:-----------------|:------------|
+| <a href="https://github.com/deepmancer/medseg-diffusion" target="_blank">github.com/deepmancer/medseg-diffusion</a> | <a href="https://deepmancer.github.io/medseg-diffusion/" target="_blank">deepmancer.github.io/medseg-diffusion</a> |
+
+---
+
 ## 🚀 Project Overview
 
 Our goal is to create a comprehensive platform that excels in retrieving, classifying, ranking, and recommending documents tailored to user preferences. The pipeline of the project follows these key stages:
