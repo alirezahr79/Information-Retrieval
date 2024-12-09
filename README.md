@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="License">
 </p>
 
-> Welcome to the Advanced Recommender System project! 🌟
+> Welcome to the Advanced Recommender System project!
 
 The **Advanced Recommender System** is a comprehensive platform designed to streamline the process of retrieving, classifying, ranking, and recommending academic documents tailored to user preferences. Whether you're conducting research or exploring literature, this system aims to enhance your workflow with cutting-edge methodologies.
 
